@@ -19,8 +19,8 @@ $toEmail = "geral@eduardofercosta.com"; // Replace Your Email Address
   // Sender's Email
 --------------------------------------------- */
 
-$fromEmail = "no-reply@website.com";  // Replace Company's Email Address (preferably currently used Domain Name)
-$fromName = "Company Name"; // Replace Company Name
+$fromEmail = "geral@eduardofercosta.com";  // Replace Company's Email Address (preferably currently used Domain Name)
+$fromName = "My Website"; // Replace Company Name
 
 
 /* --------------------------------------------
